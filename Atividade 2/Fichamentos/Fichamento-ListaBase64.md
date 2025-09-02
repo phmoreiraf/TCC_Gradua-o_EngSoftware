@@ -20,7 +20,7 @@ O artigo apresenta um estudo empírico detalhado que investiga a usabilidade da 
 * **Avaliação de Habilidades Cognitivas:** O estudo investigou a relação entre habilidades cognitivas e o desempenho em Alloy. Foram utilizados dois testes:
 
 * **Operation Span Task:** Para medir a capacidade da memória de trabalho.
-* 
+  
 * **3D Mental Rotation Task:** Para medir a habilidade de cognição espacial.
 O resultado mais significativo foi a correlação positiva e estatisticamente significante entre o desempenho no teste de rotação mental e a precisão na correção de bugs, sugerindo que a habilidade espacial é um fator importante para o uso eficaz de Alloy. Nenhuma correlação significativa foi encontrada com a memória de trabalho.
 
