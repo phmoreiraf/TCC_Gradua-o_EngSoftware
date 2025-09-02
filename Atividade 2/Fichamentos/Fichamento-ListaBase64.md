@@ -27,9 +27,9 @@ O resultado mais significativo foi a correlação positiva e estatisticamente si
 * **Padrões de Comportamento e Uso da Ferramenta:** A análise dos logs de uso do Alloy Analyzer revelou padrões de comportamento distintos. O estudo observou que os participantes, especialmente os novatos, trabalhavam de forma incremental, fazendo pequenas alterações no modelo e executando o analisador repetidamente. A ação "Execute" foi a mais utilizada por todos. Em média, novatos realizaram mais edições e mais ações no analisador do que os não-novatos. Para o grupo de novatos, um maior número de ações e edições correlacionou-se positivamente com uma maior pontuação final, indicando que eles dependiam mais da ferramenta para chegar à solução correta.
 
 ## 3. Fichamento de Citações
-* _"Traditionally, working with formal specification languages has required in-depth mathematical knowledge due to their complexity, and the learning curve is very steep for non-mathematicians".
-* _"Results indicate that overall, non-novices completed the tasks with significantly higher accuracy (54% more accurate) than novices".
-* _"We found that participants of all levels had much difficulty writing a model from scratch, and they did not utilize the analyzer to improve their models".
-* _"Non-novices who performed better on the Alloy tasks had higher mental rotation scores, which indicates the importance of spatial cognition ability in solving Alloy tasks".
-* _"RQ2 results show that despite the differences in experience, all participants found it difficult to build an Alloy model from scratch by looking at the natural language specification".
-* _"Overall, we find that there is a definite need to improve the usability of the visualizations in the Alloy Analyzer".
+* _"Traditionally, working with formal specification languages has required in-depth mathematical knowledge due to their complexity, and the learning curve is very steep for non-mathematicians"_.
+* _"Results indicate that overall, non-novices completed the tasks with significantly higher accuracy (54% more accurate) than novices"_.
+* _"We found that participants of all levels had much difficulty writing a model from scratch, and they did not utilize the analyzer to improve their models"_.
+* _"Non-novices who performed better on the Alloy tasks had higher mental rotation scores, which indicates the importance of spatial cognition ability in solving Alloy tasks"_.
+* _"RQ2 results show that despite the differences in experience, all participants found it difficult to build an Alloy model from scratch by looking at the natural language specification"_.
+* _"Overall, we find that there is a definite need to improve the usability of the visualizations in the Alloy Analyzer"_.
