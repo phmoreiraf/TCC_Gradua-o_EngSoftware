@@ -1,0 +1,30 @@
+# TransDPR: Design Pattern Recognition Using Programming Language Models
+
+Pandey, Sushant Kumar; Staron, Miroslaw; Horkoff, Jennifer; Mucci, Nicholas; Durisic, Darko; Ochodek, Mirosław. "TransDPR: Design Pattern Recognition Using Programming Language Models," in *2023 ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM)*, 2023. doi: 10.1109/ESEM56168.2023.10304862.
+
+## 1. Fichamento de Conteúdo
+
+Este artigo introduz o **TransDPR**, uma nova abordagem para o Reconhecimento de Padrões de Projeto (DPR) que utiliza Modelos de Linguagem de Programação (PLMs) para superar as limitações dos métodos tradicionais, como a dependência de análise sintática e a dificuldade em reconhecer padrões modificados ou em linguagens como C++. A técnica aproveita o **TransCoder**, um modelo pré-treinado da Meta (Facebook) baseado na arquitetura Transformer, para extrair representações vetoriais semânticas (*embeddings*) de código-fonte C++. Em seguida, um classificador de regressão logística é treinado sobre esses *embeddings* para identificar a presença dos padrões **Singleton** e **Prototype**. O estudo validou o TransDPR em duas frentes: primeiro, em um conjunto de exemplos de código aberto coletados do GitHub, onde alcançou uma performance expressiva de **90% de acurácia e um F1-score de 0.88**. Segundo, a abordagem foi aplicada em dois módulos de software industrial da Volvo Cars, onde previu corretamente os padrões em **10 de 16 arquivos**, com os resultados validados pelos desenvolvedores originais. O trabalho demonstra que o uso de PLMs para capturar a semântica do código é uma direção promissora e prática para a criação de ferramentas de DPR mais flexíveis e eficazes, especialmente em contextos industriais.
+
+## 2. Fichamento Bibliográfico
+
+* **TransDPR (A Abordagem Proposta)**: É o nome do método de DPR introduzido no artigo, combinando "Transformer" e "DPR". Sua arquitetura consiste em um pipeline que: (1) Pega o código-fonte C++ como entrada; (2) Utiliza o bloco codificador do modelo pré-treinado **TransCoder** para gerar um *embedding* (um vetor numérico que captura a semântica do código); (3) Utiliza esses *embeddings* para treinar um classificador de **Regressão Logística**; (4) Usa o classificador treinado para prever se um novo trecho de código implementa um padrão de projeto conhecido. A principal inovação é a sua capacidade de operar sobre a semântica do código, sem a necessidade de compilação ou de regras de análise estática definidas manualmente para cada padrão.
+
+* **TransCoder (O Modelo de Linguagem)**: É o PLM específico utilizado como base do TransDPR. Desenvolvido pela Meta AI (Facebook), o TransCoder é um modelo de linguagem interlingual (*cross-lingual*) construído sobre a arquitetura Transformer. Sua finalidade original é a tradução de código entre diferentes linguagens de programação (ex: C++ para Java). Neste estudo, os autores o reaproveitam de forma inovadora para extrair uma compreensão profunda e contextual do código-fonte em uma única linguagem (C++), transformando-o em representações numéricas (*embeddings*) que podem ser processadas por algoritmos de machine learning.
+
+* **Aumento de Dados (Data Augmentation)**: Para treinar o classificador, eram necessários exemplos positivos (código com o padrão) e negativos (código sem o padrão). Devido à dificuldade de encontrar contraexemplos perfeitos, os autores aplicaram uma técnica de aumento de dados: para cada *embedding* de um exemplo positivo (ex: um programa com Singleton), eles criaram um *embedding* sintético negativo multiplicando o vetor original por -1. Este método garante a criação de um contraexemplo que está geometricamente no lado oposto do espaço vetorial, permitindo que o classificador linear aprenda uma fronteira de decisão clara e não enviesada, mesmo com um pequeno número de exemplos.
+
+* **Validação Dupla (Código Aberto e Industrial)**: A eficácia do TransDPR foi avaliada em dois cenários distintos para garantir sua relevância teórica e prática:
+    1.  **Código Aberto**: Primeiramente, o modelo foi treinado e testado usando um dataset de 18 exemplos de Singleton e 8 de Prototype em C++, coletados de repositórios públicos como o GitHub. Este passo serviu para estabelecer um benchmark de performance e comparar com o estado-da-arte.
+    2.  **Código Industrial**: Em seguida, o modelo treinado foi aplicado a 16 arquivos de dois módulos reais e complexos da **Volvo Cars**. As previsões do modelo foram então comparadas com a avaliação dos desenvolvedores originais desses módulos, que classificaram o código sem conhecer os resultados do TransDPR, fornecendo uma validação robusta em um cenário industrial.
+
+* **Análise do Espaço de Embeddings**: Para entender *como* o TransDPR diferencia os padrões, os autores utilizaram técnicas de visualização como PCA (Análise de Componentes Principais) e dendrogramas. A análise mostrou que os *embeddings* de programas com o mesmo padrão (ex: Singleton) tendiam a se agrupar no espaço vetorial. Além disso, os programas da Volvo Cars formaram um cluster distinto dos programas de código aberto, indicando que o modelo foi capaz de capturar não apenas o padrão de projeto, mas também o "estilo" de codificação específico do domínio industrial.
+
+## 3. Fichamento de Citações
+
+* _"Existing approaches tend to focus on syntactial patterns, with limited efforts have been devoted to recognizing DPs using semantic (lexical) information."_
+* _"This article presents TransDPR, a new DPR model that utilizes semantic information extracted from source code."_
+* _"Our approach employs TransCoder, a BERT-based PLM model developed by Facebook research, to extract semantic information from the source code."_
+* _"Our results indicate that TransDPR achieves 90% accuracy and an F1-score of 0.88 on open-source projects."_
+* _"Furthermore, our results indicate that TransDPR accurately predicted DPs in 10 out of 16 C++ files from the two modules from our industrial partner."_
+* _"Thus, we find this avenue of research, PLMs for industrial DPR, promising."_
