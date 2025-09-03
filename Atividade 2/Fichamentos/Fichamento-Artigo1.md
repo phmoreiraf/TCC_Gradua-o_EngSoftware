@@ -1,7 +1,7 @@
 # Modular Monolith: Is This the Trend in Software Architecture?
 
 ## Referência
-Su, Ruoyu; Li, Xiaozhou. "Modular Monolith: Is This the Trend in Software Architecture?," in *arXiv preprint*, arXiv:2401.11867, January 2024. [PDF](https://arxiv.org/pdf/2401.11867)
+Su, Ruoyu; Li, Xiaozhou. "Modular Monolith: Is This the Trend in Software Architecture?," in Proceedings of the 21st International Conference on Software and Systems Reuse (ICSR), 2024. arXiv:2401.11867. doi: [10.48550/arXiv.2401.11867](https://doi.org/10.48550/arXiv.2401.11867)
 
 ## 1. Fichamento de Conteúdo
 
