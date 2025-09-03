@@ -1,6 +1,6 @@
 # TransDPR: Design Pattern Recognition Using Programming Language Models
 
-Pandey, Sushant Kumar; Staron, Miroslaw; Horkoff, Jennifer; Mucci, Nicholas; Durisic, Darko; Ochodek, Mirosław. "TransDPR: Design Pattern Recognition Using Programming Language Models," in *2023 ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM)*, 2023. doi: 10.1109/ESEM56168.2023.10304862.
+Pandey, Sushant Kumar; Staron, Miroslaw; Horkoff, Jennifer; Ochodek, Mirosław; Mucci, Nicholas; Durisic, Darko. "TransDPR: Design Pattern Recognition Using Programming Language Models," in 2023 ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM), 2023, pp. 1-7. doi: [10.1109/ESEM56168.2023.10304862](https://doi.org/10.1109/ESEM56168.2023.10304862)
 
 ## 1. Fichamento de Conteúdo
 
