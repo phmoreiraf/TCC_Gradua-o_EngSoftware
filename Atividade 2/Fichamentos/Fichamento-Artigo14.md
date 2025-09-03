@@ -1,6 +1,6 @@
 # Design pattern recognition: a study of large language models
 
-Pandey, Sushant K.; Staron, Miroslaw; Horkoff, Jennifer; Durisic, Darko. "Design pattern recognition: a study of large language models," in *Empirical Software Engineering*, Springer, vol. 30, no. 2, pp. 25:1–25:30, Feb. 2025. doi: [10.1007/s10664-025-10625-1](https://link.springer.com/article/10.1007/s10664-025-10625-1)
+Pandey, Sushant Kumar; Chand, Sivajeet; Horkoff, Jennifer; Staron, Miroslaw; Ochodek, Miroslaw; Durisic, Darko. "Design pattern recognition: a study of large language models," in Empirical Software Engineering, vol. 30, no. 69, 2025. doi: [10.1007/s10664-025-10625-1](https://doi.org/10.1007/s10664-025-10625-1)
 
 ## 1. Fichamento de Conteúdo
 
