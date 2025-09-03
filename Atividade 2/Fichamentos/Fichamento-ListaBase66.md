@@ -1,7 +1,7 @@
 # An Exploratory Study on the Occurrence of Self-Admitted Technical Debt in Android Apps
 
 ## Referência
-Wilder II, Gregory; Miyamoto, Riley; Watson, Samuel; Kazman, Rick; Peruma, Anthony. "An Exploratory Study on the Occurrence of Self-Admitted Technical Debt in Android Apps," in *Proceedings of the 6th International Conference on Technical Debt (TechDebt 2023)*, pp. 11–20, May 2023. doi: [10.1109/TechDebt2023.10207081](https://ieeexplore.ieee.org/document/10207081)
+Wilder II, Gregory; Miyamoto, Riley; Kazman, Rick; Watson, Samuel; Peruma, Anthony. "An Exploratory Study on the Occurrence of Self-Admitted Technical Debt in Android Apps," in 2023 ACM/IEEE International Conference on Technical Debt (TechDebt), 2023, pp. 1-10. doi: [10.1109/TechDebt59074.2023.00007](https://doi.org/10.1109/TechDebt59074.2023.00007)
 
 ## 1. Fichamento de Conteúdo
 
