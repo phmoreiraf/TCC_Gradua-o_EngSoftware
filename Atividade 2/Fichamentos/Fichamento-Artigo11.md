@@ -1,6 +1,6 @@
 # Towards Predicting Architectural Design Patterns: A Machine Learning Approach
 
-Komolov, Sirojiddin; Dlamini, Gcinizwe; Megha, Swati; Mazzara, Manuel. "Towards Predicting Architectural Design Patterns: A Machine Learning Approach," in *Computers*, vol. 11, no. 151, 2022. doi: 10.3390/computers11100151.
+Komolov, Sirojiddin; Dlamini, Gcinizwe; Megha, Swati; Mazzara, Manuel. "Towards Predicting Architectural Design Patterns: A Machine Learning Approach," in Computers, vol. 11, no. 10, p. 151, Oct. 2022. doi: [10.3390/computers11100151](https://doi.org/10.3390/computers11100151)
 
 ## 1. Fichamento de Conteúdo
 
