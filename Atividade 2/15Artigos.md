@@ -27,4 +27,5 @@
 * Pandey, Sushant Kumar; Staron, Miroslaw; Horkoff, Jennifer; Ochodek, Mirosław; Mucci, Nicholas; Durisic, Darko. "TransDPR: Design Pattern Recognition Using Programming Language Models," in 2023 ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM), 2023, pp. 1-7. doi: [10.1109/ESEM56168.2023.10304862](https://doi.org/10.1109/ESEM56168.2023.10304862)
   
 * Pandey, Sushant Kumar; Chand, Sivajeet; Horkoff, Jennifer; Staron, Miroslaw; Ochodek, Miroslaw; Durisic, Darko. "Design pattern recognition: a study of large language models," in Empirical Software Engineering, vol. 30, no. 69, 2025. doi: [10.1007/s10664-025-10625-1](https://doi.org/10.1007/s10664-025-10625-1)
+  
 * Li, Yimeng; Chen, Zhen-Ping; Wang, Yi. "Follow-up study comparing programming language models for design pattern recognition," in Journal of Systems and Software, vol. 211, p. 112001, May 2024. doi: [10.1016/j.jss.2024.112001](https://doi.org/10.1016/j.jss.2024.112001)
