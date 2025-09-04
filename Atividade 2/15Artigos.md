@@ -20,7 +20,8 @@
   
 * Jánki, Zoltán Richárd; Bilicki, Vilmos. "Rule-Based Architectural Design Pattern Recognition with GPT Models," in Electronics, vol. 12, no. 15, p. 3364, Aug. 2023. doi: [10.3390/electronics12153364](https://doi.org/10.3390/electronics12153364)
   
-* Arnaoudova, Valentina; Di Penta, Massimiliano; Oliveto, Rocco; Rago, A. "Formal Software Architecture Rule Learning: A Comparative Investigation between Large Language Models and Inductive Techniques," in 2024 IEEE International Conference on Software Maintenance and Evolution (ICSME), 2024. doi: [10.1109/ICSME62231.2024.10631628](https://www.mdpi.com/2079-9292/13/5/816)
+* Schindler, C.; Rausch, A. Formal Software Architecture Rule Learning: A Comparative Investigation between Large Language Models and Inductive Techniques. Electronics, 2024, 13(5), 816.
+DOI: [10.3390/electronics13050816](https://www.mdpi.com/2079-9292/13/5/816)
   
 * Komolov, Sirojiddin; Dlamini, Gcinizwe; Megha, Swati; Mazzara, Manuel. "Towards Predicting Architectural Design Patterns: A Machine Learning Approach," in Computers, vol. 11, no. 10, p. 151, Oct. 2022. doi: [10.3390/computers11100151](https://doi.org/10.3390/computers11100151)
   
