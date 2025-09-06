@@ -1,4 +1,4 @@
-## Lista dos 15 artigos explorados
+## Lista dos 15 artigos
 
 1. Pandey, Sushant Kumar; Chand, Sivajeet; Horkoff, Jennifer; Staron, Miroslaw; Ochodek, Miroslaw; Durisic, Darko. *Design pattern recognition: a study of large language models*. **Empirical Software Engineering**, 2025. doi: [10.1007/s10664-025-10625-1](https://doi.org/10.1007/s10664-025-10625-1).
 
