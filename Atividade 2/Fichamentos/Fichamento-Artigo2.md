@@ -1,5 +1,6 @@
 # An empirical investigation of the relationship between pattern grime and code smells
 
+## Referência
 Alharbi, M.; Alshayeb, M. *An empirical investigation of the relationship between pattern grime and code smells*. Journal of Software: Evolution and Process, 2024; 36:e2666. [https://doi.org/10.1002/smr.2666](https://doi.org/10.1002/smr.2666)
 
 ## 1. Fichamento de Conteúdo
