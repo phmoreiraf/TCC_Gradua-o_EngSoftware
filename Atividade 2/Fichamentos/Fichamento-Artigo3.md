@@ -1,5 +1,6 @@
 # Evolution patterns of software-architecture smells: An empirical study of intra- and inter-version smells
 
+## Referência
 Gnoyke, P.; Schulze, S.; Krüger, J. *Evolution patterns of software-architecture smells: An empirical study of intra- and inter-version smells*. Journal of Systems and Software, 217 (2024) 112170. [https://doi.org/10.1016/j.jss.2024.112170](https://doi.org/10.1016/j.jss.2024.112170)
 
 ## 1. Fichamento de Conteúdo
