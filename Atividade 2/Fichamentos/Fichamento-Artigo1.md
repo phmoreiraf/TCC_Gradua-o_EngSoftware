@@ -16,7 +16,9 @@ O artigo investiga se modelos de linguagem (LLMs) conseguem reconhecer padrões 
 
 ## 3. Fichamento de Citações
 
-* _“This study aims to evaluate the abilities of Large Language Models (LLMs) in identifying DPs in source code, which can facilitate the development of better Design Pattern Recognition (DPR) tools.”_
-* _“We compare the effectiveness of different LLMs in capturing semantic information relevant to the DPR task.”_
-* _“RoBERTa is the top performer, followed by CodeGPT and CodeBERT… mean F1 Scores of 0.91, 0.79, and 0.77…”_
-* _“The performance of LLMs in DPR is comparable to existing state-of-the-art methods but with less effort in identifying pattern-specific rules and pre-training.”_
+* [cite\_start]*"This study aims to evaluate the abilities of Large Language Models (LLMs) in identifying DPs in source code, which can facilitate the development of better Design Pattern Recognition (DPR) tools."* [cite: 585]
+  * [cite\_start]*"We compare the effectiveness of different LLMs in capturing semantic information relevant to the DPR task."* [cite: 586]
+  * [cite\_start]*"State-of-the-art language models, including Code2Vec, CodeBERT, CodeGPT, CodeT5, and RoBERTa, are used to generate embeddings from source code. These embeddings are then used for DPR via a k-nearest neighbors prediction."* [cite: 588, 589]
+  * [cite\_start]*"RoBERTa is the top performer, followed by CodeGPT and CodeBERT, which showed mean F1 Scores of 0.91, 0.79, and 0.77, respectively."* [cite: 591]
+  * [cite\_start]*"The performance of LLMs in DPR is comparable to existing state-of-the-art methods but with less effort in identifying pattern-specific rules and pre-training."* [cite: 593]
+  * [cite\_start]*"The study found that along with semantics, syntactic information, the context of implementation, keywords, and implementation style are the factors contributing to DPR by LLMs."* [cite: 670]
