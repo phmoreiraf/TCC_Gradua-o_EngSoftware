@@ -22,9 +22,9 @@
 
 * Alfadel, Mahmoud; Aljasser, Khalid; Alshayeb, Mohammad. "Empirical study of the relationship between design patterns and code smells," in PLoS ONE, vol. 15, no. 4, art. e0231731, Abr. 2020. doi: [10.1371/journal.pone.0231731](https://doi.org/10.1371/journal.pone.0231731)
 
-* Aversano, Lerina; Canfora, Gerardo; Cerulo, Luigi; Del Grosso, Concettina; Di Penta, Massimiliano. "An Empirical Study on the Evolution of Design Patterns," in ESEC/FSE'07: Proceedings of the the 6th joint meeting of the European software engineering conference and the ACM SIGSOFT symposium on The foundations of software engineering, pp. 385-394, Set. 2007. doi: [10.1145/1287624.1287690](https://doi.org/10.1145/1287624.1287690)
+* Aversano, Lerina; Canfora, Gerardo; Cerulo, Luigi; Del Grosso, Concettina; Di Penta, Massimiliano. *An empirical study on the evolution of design patterns*. **ESEC/FSE 2007**, pp. 385–394. doi: [10.1145/1287624.1287680](https://doi.org/10.1145/1287624.1287680).
 
-* Di Penta, Massimiliano; Cerulo, Luigi; Guéhéneuc, Yann-Gaël; Antoniol, Giuliano. "An Empirical Study of the Relationships between Design Pattern Roles and Class Change Proneness," in 2008 24th IEEE International Conference on Software Maintenance (ICSM), pp. 205-214, Set. 2008. doi: [10.1109/ICSM.2008.4658074](https://doi.org/10.1109/ICSM.2008.4658074)
+* Di Penta, Massimiliano; Cerulo, Luigi; Guéhéneuc, Yann‑Gaël; Antoniol, Giuliano. *An empirical study of the relationships between design pattern roles and class change proneness*. **ICSM 2008** (24th IEEE International Conference on Software Maintenance), pp. 217–226. doi: [10.1109/ICSM.2008.4658070](https://doi.org/10.1109/ICSM.2008.4658070)  [PDF](https://www.ptidej.net/publications/documents/ICSM08b.doc.pdf).
 
 * Chand, Sivajeet; Pandey, Sushant Kumar; Horkoff, Jennifer; Staron, Miroslaw; Ochodek, Miroslaw; Durisic, Darko. "Comparing Word-Based and AST-Based Models for Design Pattern Recognition," in Proceedings of the 19th International Conference on Predictive Models and Data Analytics in Software Engineering (PROMISE '23), pp. 44-48, Dez. 2023. doi: [10.1145/3617555.3617873](https://doi.org/10.1145/3617555.3617873)
 
